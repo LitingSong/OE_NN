@@ -112,6 +112,8 @@ other attached packages:
 [29] SeuratWrappers_0.3.5        schard_0.0.1               
 [31] scales_1.4.0                RColorBrewer_1.1-3         
 [33] scattermore_1.2             ggplot2_3.5.2              
+[35] Monocle3_1.3.7
+
 
 loaded via a namespace (and not attached):
   [1] RcppAnnoy_0.0.22          splines_4.3.1            
