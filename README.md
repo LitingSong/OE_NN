@@ -58,9 +58,14 @@ s4.2 Functional enrichment of genes in different alignment patterns
 &emsp;*04b_genes2genes_pathway-psyad-sfari.ipynb*
 
 ## Fig. 5: Association of OSN stage-specific TFs with neuropsychiatric disorders
-s5.1 GRN construction by SCENIC
+s5.1.1 GRN construction by SCENIC
 
 &emsp;*05a.ENTNN_N_SCENIC-allG.py*
+
+s5.1.2 MAGMA enrichment
+
+&emsp;*05a_downstream_magma.R & 05a_run_magma.R*
+
 
 S5.2 Visualization of TF regulon activity and enrichment in psychiatric disorders.
 
