@@ -75,6 +75,11 @@ S5.2 Visualization of TF regulon activity and enrichment in psychiatric disorder
 
 &emsp;*05b.TF_heatmap_GRN.ipynb*
 
+## data
+The Seurat object for the 1,064 GBC and OSN cells can be downloaded from: https://drive.google.com/file/d/1fBHVAZYB1LI8VTBq52sELiPo5nkKviYz/view?usp=drive_link
+
+
+
 ## R sessionInfo()
 R version 4.3.1 (2023-06-16)
 Platform: x86_64-conda-linux-gnu (64-bit)
