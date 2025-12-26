@@ -10,9 +10,13 @@ s1.2 QC and data processing:
 
 &emsp;*01b.ent_process_outerMerge_0807.ipynb & 01c.NN_process-0807.ipynb*
 
-s1.3 integrate OSNs from MSSM-OE dataset and Durante et al’s data 
+s1.3 integrate OSNs from MSSM-OE dataset and Durante et al’s and Oliva et al.'s data 
 
-&emsp;*01c.integrate_Neuron_nn_ent-0807.ipynb*
+&emsp;*01c.integrate_Neuron_nn_ent.ipynb*
+
+s1.3.1 scvi umap for integrated data
+
+&emsp;*01b_scvi_umap.ipynb*
 
 s1.4 Cell stage composition and nasal site origin for OSNs; statistics of cell cycle score: 
 
@@ -27,17 +31,17 @@ s1.5 scDRS association between brain-related disease and OSNs
 
 s2 trajectory inference & identify trajDEGs & identify clusters & functional enrichment
 
-&emsp;*02a.traj_integrate_600-6-40-50-graph_k7_FDR_BG-Cov.ipynb*
+&emsp;*02a.trajctory.ipynb*
 
 ## Figure 3: Similarities and differences in gene expression between OSNs and CENs during development
 
 s3.1 expression correlation between OSNs and brain cells 
 
-&emsp;*03a_OSN_vs_BRAIN_lister-corr.ipynb & 03a_OSN_vs_BRAIN_liwang-corr.ipynb*
+&emsp;*03a_OSN_vs_BRAIN_lister-corr.ipynb*
 
 s3.2 gene module score
 
-&emsp;*03b_module_score.ipynb & 03b_module_score_heatmap.ipynb*
+&emsp;*03b_module_score_heatmap.ipynb*
 
 s3.3 overlap between trajDEGs between OSNs and CENs
 
@@ -45,7 +49,7 @@ s3.3 overlap between trajDEGs between OSNs and CENs
 
 s3.4 scatter plot of enriched GOBPs
 
-&emsp;*03d.trend_pattern_OlfvsBrain-gprofiler2-ExN2cux2-k7_FDR_BG-graph.ipynb*
+&emsp;*03d.trend_pattern_OlfvsBrain.ipynb*
 
 ## Figure 4: Expression trajectory alignments between OSNs and CENs for ASD risk genes
 
@@ -55,7 +59,7 @@ s4.1 Expression trajectory alignments and identification of alignment patterns
 
 s4.2 Functional enrichment of genes in different alignment patterns
 
-&emsp;*04b_genes2genes_pathway-psyad-sfari.ipynb*
+&emsp;*04b_g2g_stability.ipynb*
 
 ## Fig. 5: Association of OSN stage-specific TFs with neuropsychiatric disorders
 s5.1.1 GRN construction by SCENIC
@@ -69,7 +73,7 @@ s5.1.2 MAGMA enrichment
 
 S5.2 Visualization of TF regulon activity and enrichment in psychiatric disorders.
 
-&emsp;*05b.TF_heatmap_tcf4_network.ipynb*
+&emsp;*05b.TF_heatmap_GRN.ipynb*
 
 ## R sessionInfo()
 R version 4.3.1 (2023-06-16)
