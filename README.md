@@ -61,6 +61,9 @@ s4.2 Functional enrichment of genes in different alignment patterns
 
 &emsp;*04b_g2g_stability.ipynb*
 
+s4.3 Gene expression validation using mouse data
+&emsp;*04c_validate_mouseFacs.ipynb*
+
 ## Fig. 5: Association of OSN stage-specific TFs with neuropsychiatric disorders
 s5.1.1 GRN construction by SCENIC
 
